@@ -1,0 +1,10 @@
+[3IuM8gPKMoMq#0] ^بولی/بولی<n><f><sg><nom>/بولی<n><f><sg><obl>$
+[/3IuM8gPKMoMq]
+[87dTYWgegTI1#0] ^یاران/یار<n><m><pl><nom>$
+[/87dTYWgegTI1]
+[8nbAAdvycHbn#0] ^یاروں/یار<n><m><pl><obl>$
+[/8nbAAdvycHbn]
+[UpeDwrORXGKc#0] ^بولیؤں/بولی<n><f><pl><obl>$
+[/UpeDwrORXGKc]
+[cGfcRYqLDW8A#0] ^بولیوں/بولی<n><f><pl><obl>$
+[/cGfcRYqLDW8A]

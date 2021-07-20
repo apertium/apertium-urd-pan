@@ -1,0 +1,10 @@
+[5nWnuj40U6Pb#0] ^تلواروں/تلوار<n><f><pl><obl>$
+[/5nWnuj40U6Pb]
+[BJ-rf0He3HhD#0] ^غزلے/غزل<n><f><pl><nom>$
+[/BJ-rf0He3HhD]
+[Msdu97PpneAf#0] ^حدیثیں/حدیث<n><f><pl><nom>$
+[/Msdu97PpneAf]
+[fiEtgwLb-jen#0] ^فلموں/فلم<n><f><pl><obl>$
+[/fiEtgwLb-jen]
+[opQp-ffXTZCv#0] ^جانورؤں/جانور<n><m><pl><obl>$
+[/opQp-ffXTZCv]

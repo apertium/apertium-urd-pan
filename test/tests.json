@@ -1,0 +1,14 @@
+{
+    "pan_Arab-urd": {
+        "input": "pan_Arab-urd-input.txt",
+        "mode": "pan_Arab-urd"
+    },
+    "urd-pan_Arab": {
+        "input": "urd-pan_Arab-input.txt",
+        "mode": "urd-pan_Arab"
+    },
+    "urd-pan_Guru": {
+        "input": "urd-pan_Guru-input.txt",
+        "mode": "urd-pan_Guru"
+    }
+}
